@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-import-and-export",
+  "version": "1.0.0",
+  "description": "У нашей компании появился крупный партнер. Нужно показать ему, что у нас лучшие в мире программисты. Для этого нужно продемонстрировать ему твой код на Node.js, пусть даже очень простой.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"  
+  
+}
